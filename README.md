@@ -5,7 +5,7 @@
 bikeshare_2
 
 ### Description
-Describe what your project is about and what it does
+My project is about python and give statistics on bikeshare company activities
 
 ### Files used
 Include the files used
