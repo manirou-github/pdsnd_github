@@ -13,4 +13,4 @@ My project is about python and give statistics on bikeshare company activities
 * washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* [data frame aggregate](https://www.geeksforgeeks.org/python-pandas-dataframe-aggregate/)
